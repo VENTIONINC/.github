@@ -1,3 +1,5 @@
+![Vention - Engineering Peace of Mind](Vention_Cover.png)
+
 Vention is a global software engineering and AI services company. For over 20 years, we’ve helped Fortune 500 enterprises and high-growth innovators build, modernize, and scale their products. Our AI-enabled SDLC brings AI into every stage of development, helping teams move from early ideas to production with governance and clear results built in. 
 
 Here on GitHub, we share the open-source tools behind that work for engineering teams to use, adapt, and improve. 
